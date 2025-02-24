@@ -1,6 +1,6 @@
 # Mobile-Dora Shopping
 
-**Mobile-Dora Shopping** is a mobile shopping application that provides a seamless and intuitive shopping experience for users on Android (or iOS). Users can browse a wide variety of products, add them to their cart, view detailed product information, and place orders directly from the app. This app is designed for users who want a fast and easy way to shop from anywhere.
+**Mobile-Dora Shopping** is a mobile shopping application that provides a seamless and intuitive shopping experience for users on Android. Users can browse a wide variety of products, add them to their cart, view detailed product information, and place orders directly from the app. This app is designed for users who want a fast and easy way to shop from anywhere.
 
 ## Features
 
@@ -31,9 +31,8 @@
 ## Technologies Used
 
 - **Frontend**:
-  - Android (Java/Kotlin) or iOS (Swift)
+  - Android (Java)
   - XML for layouts (for Android)
-  - SwiftUI or UIKit (for iOS)
 
 - **Backend**:
   - Firebase (for authentication, real-time database, notifications)
@@ -45,7 +44,7 @@
 
 ## Requirements
 
-- Android 5.0+ (for Android users) or iOS 12.0+ (for iOS users)
+- Android 5.0+ 
 - Android Studio or Xcode (for development)
 - Firebase account (for authentication and database management)
 
